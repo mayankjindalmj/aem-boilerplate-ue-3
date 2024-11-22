@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p107005-e259333-cmstg.adobeaemcloud.com/bin/franklin.delivery/mayankjindalmj/aem-boilerplate-ue-3/main
+    url: https://552a-103-43-112-97.ngrok-free.app/bin/franklin.delivery/mayankjindalmj/aem-boilerplate-ue-3/main
     type: "markup"
     suffix: ".html"
